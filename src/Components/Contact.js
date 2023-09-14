@@ -12,12 +12,12 @@ function Contact() {
                     <p>Reach out to me!</p>
                     <h1 className='Contact__Name'>Contact</h1>
                     <div className='Contact__Log'>
-                        <Mail email="mugilya99@gmail.com" subject="Front-End Job - regarding">
+                        <Mail email="butola.aditya10@gmail.com" subject="Front-End Job - regarding">
                             <button className='Contact__Btn__Log'>
                                 <IoMdMail className='Conact__Icon' /> butola.aditya10@gmail.com
                             </button>
                         </Mail>
-                        <a href="tel:+918248184024">
+                        <a href="tel:+919557424420">
                             <button className='Contact__Btn__Log'>
                                 <IoMdCall className='Conact__Icon' /> +91 9557424420
                             </button>
