@@ -17,7 +17,7 @@ function About() {
                 I'm skilled in <b>React.js</b>, <b>JavaScript</b>, <b>HTML</b>, <b>CSS</b>, <b>Java</b>, and <b>SQL</b>.
                 <br></br>
                 I have a strong interest in front-end development, 
-                where I get to blend my technical skills with my passion for creating beautiful and user-friendly interfaces
+                where I get to blend my technical skills with my passion for creating beautiful and user-friendly interfaces.
 
                 </p>
             </div>
