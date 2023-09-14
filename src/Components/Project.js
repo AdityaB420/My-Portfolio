@@ -17,8 +17,7 @@ function Project() {
                     <div className='Project__Info'>
                         <h2 className='Project__Info__Title'>Typing Speed Test</h2>
                         <p className='Project__Caption'>Developed an interactive and user-friendly Typing Speed Test application using modern web technologies,
-                        including React.js and the Context API. The application provides users with an engaging platform to assess
-                        and improve their typing proficiency.
+                        including React.js and the Context API.
                         </p>
                         <div className='Project__Techs'>
                             <div className='Techs'>REACTJS</div>
@@ -44,8 +43,7 @@ function Project() {
                     <div className='Project__Info'>
                         <h2 className='Project__Info__Title'>Weather APP</h2>
                         <p className='Project__Caption'>
-                        Designed and developed a dynamic Weather Forecast Web Application using HTML, CSS, and JavaScript,
-                        providing users with real-time weather updates and forecasts.
+                        Designed and developed a dynamic Weather Forecast Web Application using HTML, CSS, and JavaScript.
                         </p>
                         <div className='Project__Techs'>
                             <div className='Techs'>HTML & CSS</div>
@@ -69,9 +67,7 @@ function Project() {
                     <span className='blue-overlay'></span>
                     <div className='Project__Info'>
                         <h2 className='Project__Info__Title'>MeShop</h2>
-                        <p className='Project__Caption'>Developed a shopping web application with authentication, cart and checkout feature, users can search and
-                        filter (API fetched) products, add them to the cart and then also can make dummy payment using Razorpay
-                        test mode.</p>
+                        <p className='Project__Caption'>E-commerce Website</p>
                         <div className='Project__Techs'>
                             <div className='Techs'>HTML & CSS</div>
                             <div className='Techs'>JavaScript</div>
